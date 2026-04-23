@@ -1,0 +1,100 @@
+{
+  "$metadata": {
+    "generatedBy": "quieto-tokens",
+    "doNotEdit": true,
+    "generatedAt": "2026-04-23T22:25:04.394Z",
+    "notice": "This file is tool-generated. Edit quieto.config.json and re-run `quieto-tokens init` instead."
+  },
+  "color": {
+    "background": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.50}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{color.blue.500}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.neutral.100}"
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "{color.blue.800}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.neutral.200}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.blue.200}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{color.blue.100}"
+      }
+    },
+    "content": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.900}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{color.blue.700}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.neutral.700}"
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "{color.blue.900}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.neutral.800}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.blue.800}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{color.blue.800}"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.200}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{color.blue.500}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.neutral.300}"
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "{color.blue.700}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.neutral.400}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.blue.400}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{color.blue.300}"
+      }
+    }
+  }
+}
