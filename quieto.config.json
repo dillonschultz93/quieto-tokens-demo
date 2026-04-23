@@ -1,8 +1,8 @@
 {
   "version": "0.2.2",
-  "generated": "2026-04-23T22:25:04.458Z",
+  "generated": "2026-04-23T22:32:22.601Z",
   "inputs": {
-    "brandColor": "#4C87F9",
+    "brandColor": "#6F4CF9",
     "spacingBase": 8,
     "typeScale": "balanced",
     "darkMode": false
