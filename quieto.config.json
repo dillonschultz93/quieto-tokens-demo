@@ -1,6 +1,6 @@
 {
   "version": "0.2.2",
-  "generated": "2026-04-23T22:58:49.815Z",
+  "generated": "2026-04-23T23:00:34.240Z",
   "inputs": {
     "brandColor": "#6F4CF9",
     "spacingBase": 8,
@@ -20,6 +20,14 @@
   "categories": [
     "color",
     "spacing",
-    "typography"
-  ]
+    "typography",
+    "shadow"
+  ],
+  "categoryConfigs": {
+    "shadow": {
+      "levels": 4,
+      "colorRef": "{color.neutral.900}",
+      "profile": "soft"
+    }
+  }
 }

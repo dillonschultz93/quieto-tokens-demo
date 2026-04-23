@@ -1,5 +1,19 @@
 # Design System Changelog
 
+## [2026-04-23T23:00:34.240Z]
+
+**Tool version:** 0.2.2
+**Command:** add shadow
+**Categories affected:** shadow
+
+### Summary
+
+Added shadow category.
+- Created 4 primitive tokens, 3 semantic tokens.
+
+- Figma JSON at `build/tokens.figma.json` was regenerated (alongside CSS).
+
+---
 ## [2026-04-23T22:58:49.816Z]
 
 **Tool version:** 0.2.2
