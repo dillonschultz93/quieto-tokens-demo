@@ -1,5 +1,21 @@
 # Design System Changelog
 
+## [2026-04-23T22:37:31.551Z]
+
+**Tool version:** 0.2.2
+**Command:** update
+**Categories affected:** color
+
+### Summary
+
+Brand color changed from #6F4CF9 to #4C87F9.
+
+- **Primitives:** 9 modified, 10 added, 10 removed
+- **Semantics:** 12 remapped across 1 theme
+- **Figma JSON:** `build/tokens.figma.json` regenerated (alongside CSS).
+- Changing 29 color primitives affected 20 semantic tokens.
+
+---
 ## [2026-04-23T22:32:22.603Z]
 
 **Tool version:** 0.2.2
