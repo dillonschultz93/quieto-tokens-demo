@@ -2,7 +2,7 @@
   "$metadata": {
     "generatedBy": "quieto-tokens",
     "doNotEdit": true,
-    "generatedAt": "2026-04-29T21:20:40.314Z",
+    "generatedAt": "2026-04-29T21:25:30.861Z",
     "notice": "This file is tool-generated. Edit quieto.config.json and re-run `quieto-tokens init` instead."
   },
   "color": {
@@ -13,7 +13,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "{color.violet.500}"
+        "$value": "{color.blue.500}"
       },
       "secondary": {
         "$type": "color",
@@ -21,7 +21,7 @@
       },
       "danger": {
         "$type": "color",
-        "$value": "{color.violet.800}"
+        "$value": "{color.blue.800}"
       },
       "warning": {
         "$type": "color",
@@ -29,11 +29,11 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.violet.200}"
+        "$value": "{color.blue.200}"
       },
       "info": {
         "$type": "color",
-        "$value": "{color.violet.100}"
+        "$value": "{color.blue.100}"
       }
     },
     "content": {
@@ -43,7 +43,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "{color.violet.700}"
+        "$value": "{color.blue.700}"
       },
       "secondary": {
         "$type": "color",
@@ -51,7 +51,7 @@
       },
       "danger": {
         "$type": "color",
-        "$value": "{color.violet.900}"
+        "$value": "{color.blue.900}"
       },
       "warning": {
         "$type": "color",
@@ -59,11 +59,11 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.violet.800}"
+        "$value": "{color.blue.800}"
       },
       "info": {
         "$type": "color",
-        "$value": "{color.violet.800}"
+        "$value": "{color.blue.800}"
       }
     },
     "border": {
@@ -73,7 +73,7 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "{color.violet.500}"
+        "$value": "{color.blue.500}"
       },
       "secondary": {
         "$type": "color",
@@ -81,7 +81,7 @@
       },
       "danger": {
         "$type": "color",
-        "$value": "{color.violet.700}"
+        "$value": "{color.blue.700}"
       },
       "warning": {
         "$type": "color",
@@ -89,11 +89,11 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.violet.400}"
+        "$value": "{color.blue.400}"
       },
       "info": {
         "$type": "color",
-        "$value": "{color.violet.300}"
+        "$value": "{color.blue.300}"
       }
     }
   }
