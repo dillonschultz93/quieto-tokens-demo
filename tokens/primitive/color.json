@@ -1,0 +1,94 @@
+{
+  "$metadata": {
+    "generatedBy": "quieto-tokens",
+    "doNotEdit": true,
+    "generatedAt": "2026-04-29T21:20:40.314Z",
+    "notice": "This file is tool-generated. Edit quieto.config.json and re-run `quieto-tokens init` instead."
+  },
+  "color": {
+    "violet": {
+      "50": {
+        "$type": "color",
+        "$value": "#f4f4ff"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#bfbeff"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#aaa7ff"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#978fff"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#6f4cf9"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#4800bc"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#360093"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#290073"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#19004d"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000003"
+      }
+    },
+    "neutral": {
+      "50": {
+        "$type": "color",
+        "$value": "#f4f4fc"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#c5c5cc"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#b2b2b9"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#9f9fa6"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#74747b"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#47474d"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#35353b"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#28282d"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#18181d"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000001"
+      }
+    }
+  }
+}

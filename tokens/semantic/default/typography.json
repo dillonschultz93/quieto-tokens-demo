@@ -1,0 +1,50 @@
+{
+  "$metadata": {
+    "generatedBy": "quieto-tokens",
+    "doNotEdit": true,
+    "generatedAt": "2026-04-29T21:20:40.314Z",
+    "notice": "This file is tool-generated. Edit quieto.config.json and re-run `quieto-tokens init` instead."
+  },
+  "typography": {
+    "headline": {
+      "font-size": {
+        "$type": "fontSize",
+        "$value": "{typography.font-size.2xl}"
+      },
+      "font-weight": {
+        "$type": "fontWeight",
+        "$value": "{typography.font-weight.bold}"
+      }
+    },
+    "body": {
+      "font-size": {
+        "$type": "fontSize",
+        "$value": "{typography.font-size.base}"
+      },
+      "font-weight": {
+        "$type": "fontWeight",
+        "$value": "{typography.font-weight.regular}"
+      }
+    },
+    "label": {
+      "font-size": {
+        "$type": "fontSize",
+        "$value": "{typography.font-size.sm}"
+      },
+      "font-weight": {
+        "$type": "fontWeight",
+        "$value": "{typography.font-weight.medium}"
+      }
+    },
+    "meta": {
+      "font-size": {
+        "$type": "fontSize",
+        "$value": "{typography.font-size.xs}"
+      },
+      "font-weight": {
+        "$type": "fontWeight",
+        "$value": "{typography.font-weight.regular}"
+      }
+    }
+  }
+}

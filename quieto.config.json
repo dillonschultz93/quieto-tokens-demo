@@ -1,0 +1,25 @@
+{
+  "version": "0.2.2",
+  "generated": "2026-04-29T21:20:40.380Z",
+  "inputs": {
+    "brandColor": "#6F4CF9",
+    "spacingBase": 8,
+    "typeScale": "balanced",
+    "darkMode": false
+  },
+  "overrides": {},
+  "output": {
+    "tokensDir": "tokens",
+    "buildDir": "build",
+    "prefix": "quieto"
+  },
+  "outputs": [
+    "css",
+    "figma"
+  ],
+  "categories": [
+    "color",
+    "spacing",
+    "typography"
+  ]
+}

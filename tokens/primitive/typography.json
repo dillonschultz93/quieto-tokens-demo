@@ -1,0 +1,58 @@
+{
+  "$metadata": {
+    "generatedBy": "quieto-tokens",
+    "doNotEdit": true,
+    "generatedAt": "2026-04-29T21:20:40.314Z",
+    "notice": "This file is tool-generated. Edit quieto.config.json and re-run `quieto-tokens init` instead."
+  },
+  "typography": {
+    "font-size": {
+      "xs": {
+        "$type": "fontSize",
+        "$value": "12px"
+      },
+      "sm": {
+        "$type": "fontSize",
+        "$value": "14px"
+      },
+      "base": {
+        "$type": "fontSize",
+        "$value": "16px"
+      },
+      "lg": {
+        "$type": "fontSize",
+        "$value": "20px"
+      },
+      "xl": {
+        "$type": "fontSize",
+        "$value": "24px"
+      },
+      "2xl": {
+        "$type": "fontSize",
+        "$value": "30px"
+      },
+      "3xl": {
+        "$type": "fontSize",
+        "$value": "36px"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "$type": "fontWeight",
+        "$value": "400"
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": "500"
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": "600"
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": "700"
+      }
+    }
+  }
+}
